@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="min-w-screen min-h-screen "  >        
+        <div className="min-w-screen "  >        
           <Appbar/>
           <SecondAppBar/>
         </div>
